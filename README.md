@@ -7,3 +7,6 @@ Usage:
 ## Send gifcoins
 Usage: 
 `gifcoin`
+
+## SemaphoreCI
+See the status of the apps on SemaphoreCI: https://github.com/renuo/semaphoreci-workflow/releases/latest
